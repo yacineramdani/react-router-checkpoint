@@ -1,0 +1,105 @@
+
+.menu-bar{
+    text-align: center;
+}
+.menu-bar ul{
+    display: flex;
+    list-style: none;
+}
+.menu-bar a {
+    color: #ababab;
+    text-decoration: none;
+    
+}
+
+.menu-bar ul li {
+    width :100px;
+}
+
+ .menu-bar a:hover{
+    color: #1fccbe;
+ }
+
+ .photo{
+    margin-left: 70px;
+ }
+
+img{
+    width: 350px;
+    height: 350px;
+}
+.container{
+    display:flex;
+    justify-content:space-around;
+}
+
+.cercle{display:flex;
+text-align: center;
+
+
+}
+
+.resume{
+    background-color: rgb(236, 47, 79);
+    
+}
+
+.works{
+    background-color:rgb(0, 247, 255);
+    
+}
+.skills{
+    background-color: rgb(156, 243, 43);
+    
+}
+
+.hello{
+    margin-right: 130px;
+}
+
+
+.fa{color: rgb(236, 47, 79);
+margin-top: 8px;
+font-size:16px}
+
+
+
+.phone{
+    display: flex;
+    text-align:left;
+    margin-left:150px ;
+    
+}
+.phone p, .mail p, .plus p, .gmc p{margin-top:-4px;
+margin-left:6px}
+.container{
+    margin-top:-80px;
+}
+
+
+.mail{display:flex;text-align: left;}
+.mail p{text-align:left}
+
+
+.plus{display: flex;
+text-align: left;}
+.plus p{text-align:left}
+
+.gmc{display: flex;
+    text-align: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
